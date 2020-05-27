@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="equality.CityTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-05-27T21:51:54" hostname="DESKTOP-LVBAOCR" time="0.003">
+  <properties/>
+  <testcase name="_05_shouldNotBeEqualIfStateIsDifferent" classname="equality.CityTest" time="0.002"/>
+  <testcase name="_06_shouldNotBeEqualToObjectOfDifferentType" classname="equality.CityTest" time="0.0"/>
+  <testcase name="_04_shouldNotBeEqualIfNameIsDifferent" classname="equality.CityTest" time="0.0"/>
+  <testcase name="_01_shouldBeEqualToItself" classname="equality.CityTest" time="0.0"/>
+  <testcase name="_07_shouldHaveSameHashcodeIfEqual" classname="equality.CityTest" time="0.0"/>
+  <testcase name="_03_shouldNotBeEqualToNull" classname="equality.CityTest" time="0.0"/>
+  <testcase name="_02_shouldBeEqualToCityWithSameValues" classname="equality.CityTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
